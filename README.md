@@ -1,7 +1,7 @@
 #SaltyBot v1.0 by outlyer
 #Used to track data on saltybet characters in order to produce most accurate betting percentages.
 
-The program is console based only right now.
+The program is Windows console based only right now.
 Please unzip the matchups.tar file and keep the matchups folder and mmr file in the same directory of saltybot.exe, or else you'll have to start recording matchups from scratch.
 For every matchup the program will tell you key data on both fighters. It will list "Games", "ELO", and "Record".
 The stats on the left of the ":" are the red player, blue on the right.
